@@ -1,5 +1,6 @@
 # Bina Yönetimi Örneği 
-Bu kodlarla bir binanın daireleri, ev sahipleri, kiracıları ve onların bilgileri tutulup gösterilir.
+Bu kodlarla nesneler oluşturularak çeşitli metotlar kullanılarak bir binanın daireleri, ev sahipleri, kiracıları ve onların bilgileri tutulup gösterildi.
+
 Program main içerisinden çalıştırılıdığında şu çıktıları verir : 
 
 ![Ekran Görüntüsü (59)](https://github.com/esmanurgokkaya/Bina-Yonetimi/assets/114703355/12eea47b-8a9d-4ab0-9c97-a2051762297e)
